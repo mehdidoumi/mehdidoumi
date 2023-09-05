@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehdidoumi
-- 👀 I’m interested in prompting, computer vision, furniture design
-- 🌱 I’m currently learning python and cloud computing
+- 👀 I’m interested in prompting, computer vision, furniture design, algo art
+- 🌱 I’m currently working in python/Matlab DL projects, including generating synthetic data
 - 📫 How to reach me: mehdi.doumi@loreal.com
 - website: www.mehdidoumi.com
 - other website: www.palettalife.com
